@@ -1,4 +1,2 @@
-# Stepik---auto-tests-course
-My homework
-
-https://stepik.org/course/575/syllabus
+Stepik Auto Tests
+Репозиторий моих домашних заданий, которые я прохожу на https://stepik.org/course/575/syllabus.
